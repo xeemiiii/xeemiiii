@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm Kacper!
 
-Web developer (Next.js/React) • Scripting • Databases
+Web developer • Scripting • Databases
 
 ![Profile views](https://komarev.com/ghpvc/?username=xeemiiii&label=Profile%20views&color=red&style=flat)
 
