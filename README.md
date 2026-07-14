@@ -36,5 +36,5 @@ Web developer • Scripting • Databases
 ![GitHub Streak](https://streak-stats.demolab.com?user=xeemiiii&theme=radical&hide_border=true)
 
 ## 📫 Contact
-- Email: [sevenytyt9@gmail.com]
-- Portfolio: https://[xeemiiii.github.io/]
+[![Portfolio](https://img.shields.io/badge/Portfolio-xeemiiii.github.io-0ea5e9?style=for-the-badge)](https://xeemiiii.github.io/)
+[![Email](https://img.shields.io/badge/Email-twojmail@example.com-64748b?style=for-the-badge)](mailto:sevenytyt9@gmail.com)
