@@ -37,4 +37,4 @@ Web developer • Scripting • Databases
 
 ## 📫 Contact
 [![Portfolio](https://img.shields.io/badge/Portfolio-xeemiiii.github.io-0ea5e9?style=for-the-badge)](https://xeemiiii.github.io/)
-[![Email](https://img.shields.io/badge/sevenytyt9@gmail.com-64748b?style=for-the-badge)](mailto:sevenytyt9@gmail.com)
+[![Email](https://img.shields.io/badge/Email-sevenytyt9@gmail.com-64748b?style=for-the-badge)](mailto:sevenytyt9@gmail.com)
