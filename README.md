@@ -35,6 +35,6 @@ Web developer (Next.js/React) • Scripting • Databases
 ## 📊 GitHub stats
 ![GitHub Streak](https://streak-stats.demolab.com?user=xeemiiii&theme=radical&hide_border=true)
 
-## 📫 Contact (optional)
+## 📫 Contact
 - Email: [xxx]
 - Portfolio: https://[xxx]
