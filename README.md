@@ -6,7 +6,7 @@ Web developer • Scripting • Databases
 
 ## What I build
 - 🌐 Websites
-- 🧩 Scripting (incl. bots)
+- 🧩 Scripting
 - 🗄️ Databases
 
 ## When I code, I rely on
